@@ -1,0 +1,3 @@
+h1. Dump Readme
+
+This project includes some ideas, instances of user/permission/cms.
