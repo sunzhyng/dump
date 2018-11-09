@@ -14,3 +14,4 @@ Base components.
 * Picture
 * OpenID api
 * Template engine
+* Logging system
