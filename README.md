@@ -7,7 +7,7 @@ This project includes some ideas and instances.
 * Workflow
 * Analysis & Report
 
-Base components
+Base components.
 
 * File and directory
 * Picture
