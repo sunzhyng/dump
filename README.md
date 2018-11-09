@@ -3,7 +3,7 @@
 This project includes some ideas and instances.
 
 * User & permission
-* CMS & Splider /Article/Album/Video/Live Stream/
+* CMS & Splider, /Article/Album/Video/Live Stream/
 * Workflow
 * Analysis & Report
 
