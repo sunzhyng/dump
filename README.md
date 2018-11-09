@@ -3,4 +3,5 @@
 This project includes some ideas and instances.
 
 * User & permission
-* CMS
+* CMS & Splider
+* Analysis & Report
