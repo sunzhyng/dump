@@ -11,3 +11,4 @@ Base components.
 
 * File and directory
 * Picture
+* OpenID api
