@@ -18,6 +18,6 @@ Base components.
 * Template engine
 * Logging system
 
-Develop.
+Development.
 
 * Framework, php/java
