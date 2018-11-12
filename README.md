@@ -17,6 +17,7 @@ Base components.
 * Pay api
 * Template engine
 * Logging system
+* Email
 
 Development.
 
